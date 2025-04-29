@@ -55,17 +55,6 @@ By the end of the session, students will:
    - When to commit
    - Repository organization
 
-### HTML/CSS Session Plan (60 minutes)
-1. **Website Planning** (30 minutes)
-   - Site objectives
-   - Content structure
-   - User flow
-   - Navigation planning
-
-2. **Wireframing** (20 minutes)
-   - Layout sketching
-   - Component placement
-   - Responsive considerations
 
 3. **Review & Discussion** (10 minutes)
    - Design feedback
@@ -78,11 +67,6 @@ By the end of the session, students will:
 - Wireframe review
 - Planning documentation
 
-### Homework Assignment
-- Git practice exercises
-- Finalize wireframes
-- Reading on Github
-- Project structure setup
 
 ---
 ## Day 2: Github & Website Structure
@@ -132,21 +116,6 @@ By the end of the session, students will:
    - Issue tracking
    - Project boards
 
-### HTML/CSS Session Plan (60 minutes)
-1. **Website Structure** (30 minutes)
-   - HTML scaffolding
-   - Content organization
-   - File structure
-
-2. **Content Development** (20 minutes)
-   - Content writing
-   - Asset organization
-   - SEO basics
-
-3. **Review & Planning** (10 minutes)
-   - Structure review
-   - Content feedback
-   - Next steps
 
 ### Assessment & Reflection
 - Github usage check
@@ -154,11 +123,6 @@ By the end of the session, students will:
 - Site structure review
 - Content quality
 
-### Homework Assignment
-- Github practice
-- Content development
-- Reading on deployment
-- Structure refinement
 
 ---
 ## Day 3: Advanced Git & Website Styling
@@ -208,33 +172,11 @@ By the end of the session, students will:
    - Commit organization
    - Documentation
 
-### HTML/CSS Session Plan (60 minutes)
-1. **Website Styling** (30 minutes)
-   - Component styles
-   - Color schemes
-   - Typography
-
-2. **Responsive Design** (20 minutes)
-   - Mobile optimization
-   - Breakpoints
-   - Testing
-
-3. **Review & Refinement** (10 minutes)
-   - Style review
-   - Responsive check
-   - Feedback
-
 ### Assessment & Reflection
 - Git workflow quiz
 - Conflict resolution
 - Style implementation
 - Responsive design
-
-### Homework Assignment
-- Git workflow practice
-- Style refinement
-- Reading on deployment
-- Testing documentation
 
 ---
 ## Day 4: Project Day - Business Website Deployment
@@ -281,32 +223,9 @@ By the end of the session, students will:
    - Monitoring
    - Maintenance plan
 
-### HTML/CSS Session Plan (60 minutes)
-1. **Final Optimization** (30 minutes)
-   - Performance review
-   - Asset optimization
-   - Cross-browser testing
-
-2. **Launch Preparation** (20 minutes)
-   - Final checks
-   - Backup creation
-   - Documentation
-
-3. **Review & Launch** (10 minutes)
-   - Final review
-   - Launch process
-   - Celebration!
-
 ### Assessment & Reflection
 - Deployment success
 - Site performance
 - Code quality
 - Project completion
 
-### Homework Assignment
-- Site monitoring
-- Documentation completion
-- Prepare presentation
-- Future plans
-
-4. Add more technical examples or exercises?
