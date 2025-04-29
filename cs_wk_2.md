@@ -47,33 +47,11 @@ By the end of the session, students will:
    - Decision-making exercises
    - Group discussion and solutions
 
-### HTML/CSS Session Plan (60 minutes)
-1. **Box Model Introduction** (30 minutes)
-   - Content, padding, border, margin
-   - Box-sizing property
-   - Practice exercises
-
-2. **Layout Basics** (20 minutes)
-   - Element positioning
-   - Basic spacing
-   - Layout practice
-
-3. **Review & Preview** (10 minutes)
-   - Concept review
-   - Next session preview
-   - Questions
-
 ### Assessment & Reflection
 - Logic exercises completion
 - Code challenge results
 - CSS layout implementation
 - Class participation
-
-### Homework Assignment
-- Logic puzzle worksheet
-- Boolean expression practice
-- Box model exercises
-- Reading on flow control
 
 ---
 ## Day 2: Control Flow & Decision Making
@@ -120,33 +98,11 @@ By the end of the session, students will:
    - Multiple conditions
    - Best practices
 
-### HTML/CSS Session Plan (60 minutes)
-1. **Display Properties** (30 minutes)
-   - Block vs inline
-   - Display values
-   - Practice examples
-
-2. **Basic Positioning** (20 minutes)
-   - Static positioning
-   - Relative positioning
-   - Layout exercises
-
-3. **Review & Practice** (10 minutes)
-   - Concept review
-   - Next steps
-   - Questions
-
 ### Assessment & Reflection
 - Control flow exercises
 - Program completion
 - CSS layout creation
 - Participation evaluation
-
-### Homework Assignment
-- Create decision-based program
-- CSS positioning exercises
-- Reading on advanced flow control
-- Practice problems
 
 ---
 ## Day 3: Algorithm Development
@@ -193,33 +149,12 @@ By the end of the session, students will:
    - Best practices
    - Common patterns
 
-### HTML/CSS Session Plan (60 minutes)
-1. **Flexbox Introduction** (30 minutes)
-   - Flex container
-   - Flex items
-   - Basic properties
-
-2. **Layout Practice** (20 minutes)
-   - Flex layouts
-   - Responsive design
-   - Practice exercises
-
-3. **Review & Next Steps** (10 minutes)
-   - Concept review
-   - Preview next session
-   - Questions
-
 ### Assessment & Reflection
 - Algorithm development
 - Code implementation
 - Flexbox layouts
 - Class participation
 
-### Homework Assignment
-- Create simple algorithms
-- Implement Flexbox layouts
-- Reading on optimization
-- Practice exercises
 
 ---
 ## Day 4: Project Day - Game Logic
@@ -272,9 +207,3 @@ By the end of the session, students will:
 - Code quality
 - Interface design
 - Problem-solving skills
-
-### Homework Assignment
-- Complete game features
-- Enhance interface
-- Documentation
-- Prepare for presentation
