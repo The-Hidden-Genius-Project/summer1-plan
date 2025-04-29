@@ -60,34 +60,11 @@ By the end of the session, students will:
    - Search and replace
    - Regular expressions intro
 
-### HTML/CSS Session Plan (60 minutes)
-1. **CSS Animations** (30 minutes)
-   - @keyframes rule
-   - Animation properties
-   - Timing functions
-   - Basic animations
-
-2. **Transitions** (20 minutes)
-   - Transition properties
-   - Duration and timing
-   - State changes
-
-3. **Practice & Review** (10 minutes)
-   - Animation challenges
-   - Common issues
-   - Performance tips
-
 ### Assessment & Reflection
 - String manipulation quiz
 - Method usage check
 - Animation implementation
 - Code quality review
-
-### Homework Assignment
-- String processing exercises
-- Create animated elements
-- Reading on lists
-- Practice problems
 
 ---
 ## Day 2: Lists and Arrays
@@ -145,33 +122,12 @@ By the end of the session, students will:
    - Matrix operations
    - List as stack/queue
 
-### HTML/CSS Session Plan (60 minutes)
-1. **Media Queries** (30 minutes)
-   - Breakpoints
-   - Device targeting
-   - Responsive design
-
-2. **Mobile-First Design** (20 minutes)
-   - Strategy implementation
-   - Common patterns
-   - Best practices
-
-3. **Review & Practice** (10 minutes)
-   - Responsive challenges
-   - Testing methods
-   - Questions
-
 ### Assessment & Reflection
 - List operations quiz
 - Comprehension exercises
 - Responsive design check
 - Code organization review
 
-### Homework Assignment
-- List manipulation exercises
-- Responsive layout project
-- Reading on dictionaries
-- Practice problems
 
 ---
 ## Day 3: Dictionaries and Key-Value Pairs
@@ -231,17 +187,6 @@ By the end of the session, students will:
    - Dictionary best practices
    - Performance considerations
 
-### HTML/CSS Session Plan (60 minutes)
-1. **CSS Frameworks** (30 minutes)
-   - Bootstrap introduction
-   - Grid system
-   - Components
-
-2. **Framework Usage** (20 minutes)
-   - Navigation
-   - Cards
-   - Utilities
-
 3. **Practice & Review** (10 minutes)
    - Component implementation
    - Customization
@@ -252,12 +197,6 @@ By the end of the session, students will:
 - Framework usage check
 - Component implementation
 - Code quality review
-
-### Homework Assignment
-- Dictionary exercises
-- Framework-based layout
-- Reading on advanced topics
-- Practice problems
 
 ---
 ## Day 4: Project Day - Data Analysis Tool
@@ -294,26 +233,10 @@ By the end of the session, students will:
    - Code optimization
    - Documentation
 
-### HTML/CSS Session Plan (60 minutes)
-1. **Tool Interface** (40 minutes)
-   - Framework implementation
-   - Component styling
-   - Responsive design
-
-2. **Final Touches** (20 minutes)
-   - Polish UI
-   - Add animations
-   - Testing
-
 ### Assessment & Reflection
 - Project completion
 - Code organization
 - Interface design
 - Problem-solving skills
 
-### Homework Assignment
-- Complete tool features
-- Enhance interface
-- Documentation
-- Prepare for presentation
 
