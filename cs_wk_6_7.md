@@ -5,7 +5,6 @@
 ## Day 1: Introduction to Debugging & Error Types
 ### Session Duration
 - **Python Session**: 120 minutes
-- **HTML/CSS Session**: 60 minutes
 
 ### Session Objectives
 By the end of the session, students will:
@@ -80,21 +79,6 @@ By the end of the session, students will:
    - Implementing error handling
    - Adding input validation
 
-### HTML/CSS Session Plan (60 minutes)
-1. **Interactive Elements** (30 minutes)
-   - Button states
-   - Input validation
-   - Error messages
-
-2. **Game Interface** (20 minutes)
-   - Score display
-   - Round counter
-   - Feedback elements
-
-3. **Review & Enhancement** (10 minutes)
-   - Testing
-   - User feedback
-   - Improvements
 
 ### Assessment & Reflection
 - Error identification quiz
@@ -102,11 +86,6 @@ By the end of the session, students will:
 - Game implementation
 - Interface design
 
-### Homework Assignment
-- Debug practice problems
-- Enhance odd_or_even game
-- Add more features
-- Style improvements
 
 ---
 ## Day 2: Common Bug Patterns & Countdown Timer
@@ -176,22 +155,6 @@ By the end of the session, students will:
    - Add pause/resume
    - Implement sound
    - Error handling
-
-### HTML/CSS Session Plan (60 minutes)
-1. **Timer Interface** (30 minutes)
-   - Digital display
-   - Control buttons
-   - Progress indicator
-
-2. **Animation Effects** (20 minutes)
-   - Countdown animation
-   - Completion effects
-   - Sound integration
-
-3. **Testing & Review** (10 minutes)
-   - Browser testing
-   - Performance check
-   - User feedback
 
 ---
 ## Day 3: Advanced Debugging & Hangman Game
@@ -275,21 +238,6 @@ By the end of the session, students will:
    - Implement hints
    - Score tracking
 
-### HTML/CSS Session Plan (60 minutes)
-1. **Game Interface** (30 minutes)
-   - Word display
-   - Keyboard layout
-   - Hangman visualization
-
-2. **Interactive Elements** (20 minutes)
-   - Key press handling
-   - Visual feedback
-   - Win/lose animations
-
-3. **Testing & Polish** (10 minutes)
-   - Game flow
-   - Error handling
-   - User experience
 
 ---
 ## Day 4: Project Integration & Bug Hunt
@@ -334,21 +282,6 @@ Students will integrate all three games (Odd or Even, Countdown Timer, Hangman) 
    - Achievements
    - Progress tracking
 
-### HTML/CSS Session Plan (60 minutes)
-1. **Platform Interface** (30 minutes)
-   - Game selection
-   - Score display
-   - Navigation
-
-2. **Final Polish** (20 minutes)
-   - Transitions
-   - Responsive design
-   - Cross-browser testing
-
-3. **Launch Prep** (10 minutes)
-   - Final testing
-   - Documentation
-   - Deployment
 
 ### Key Learning Integration
 - Variables & Data Types
