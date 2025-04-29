@@ -56,35 +56,12 @@ By the end of the session, students will:
    - Scope problem-solving
    - Code refactoring practice
 
-### HTML/CSS Session Plan (60 minutes)
-1. **CSS Grid Introduction** (25 minutes)
-   - Grid container
-   - Grid items
-   - Basic terminology
-   - Grid lines and areas
-
-2. **Grid Properties** (25 minutes)
-   - grid-template-columns
-   - grid-template-rows
-   - grid-gap
-   - Practice layouts
-
-3. **Review & Practice** (10 minutes)
-   - Layout challenges
-   - Common issues
-   - Best practices
 
 ### Assessment & Reflection
 - Variable usage quiz
 - Scope understanding check
 - Grid layout implementation
 - Code quality review
-
-### Homework Assignment
-- Variable practice problems
-- Scope worksheet
-- Create grid-based layout
-- Reading on functions
 
 ---
 ## Day 2: Functions Fundamentals
@@ -142,33 +119,11 @@ By the end of the session, students will:
    - Clean code practices
    - Debugging functions
 
-### HTML/CSS Session Plan (60 minutes)
-1. **Advanced Grid** (30 minutes)
-   - Grid template areas
-   - Auto-fit and auto-fill
-   - Responsive grids
-
-2. **Practical Application** (20 minutes)
-   - Building complex layouts
-   - Responsive design
-   - Grid challenges
-
-3. **Review & Enhancement** (10 minutes)
-   - Layout review
-   - Optimization tips
-   - Questions
-
 ### Assessment & Reflection
 - Function creation exercises
 - Parameter usage check
 - Grid implementation
 - Code organization review
-
-### Homework Assignment
-- Create utility functions
-- Grid layout project
-- Reading on loops
-- Practice problems
 
 ---
 ## Day 3: Loops and Iteration
@@ -226,33 +181,12 @@ By the end of the session, students will:
    - Pattern printing
    - Problem-solving
 
-### HTML/CSS Session Plan (60 minutes)
-1. **HTML Forms** (30 minutes)
-   - Form elements
-   - Input types
-   - Form structure
-
-2. **Form Styling** (20 minutes)
-   - Input styling
-   - Layout organization
-   - Responsive forms
-
-3. **Review & Practice** (10 minutes)
-   - Form validation
-   - Best practices
-   - Questions
 
 ### Assessment & Reflection
 - Loop implementation
 - Control flow understanding
 - Form creation
 - Code efficiency review
-
-### Homework Assignment
-- Loop practice problems
-- Create styled form
-- Reading on collections
-- Debugging exercises
 
 ---
 ## Day 4: Project Day - Function Calculator
@@ -289,26 +223,9 @@ By the end of the session, students will:
    - Code optimization
    - Documentation
 
-### HTML/CSS Session Plan (60 minutes)
-1. **Calculator Interface** (40 minutes)
-   - Grid-based layout
-   - Button styling
-   - Responsive design
-
-2. **Final Touches** (20 minutes)
-   - Animation effects
-   - Error messages
-   - Testing
-
 ### Assessment & Reflection
 - Project completion
 - Code organization
 - Interface design
 - Problem-solving skills
-
-### Homework Assignment
-- Complete calculator
-- Add advanced features
-- Documentation
-- Prepare for presentation
 
