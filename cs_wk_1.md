@@ -44,39 +44,13 @@ By the end of the session, students will:
    - **Exploration**: Basic Python commands
    - **Troubleshooting**: Common issues and solutions
 
-### HTML/CSS Session Plan (60 minutes)
-1. **Web Development Introduction** (15 minutes)
-   - What is web development?
-   - Role of HTML, CSS, and JavaScript
-   - Basic web page structure
-
-2. **First HTML Page** (35 minutes)
-   - Creating HTML files
-   - Basic HTML tags
-   - Page structure elements
-   - Text elements
-
-3. **Wrap-Up & Practice** (10 minutes)
-   - Review key concepts
-   - Preview next session
-   - Set up practice tasks
-
 ### Assessment & Reflection
 - Installation completion checklist
 - Basic concept quiz
-- "Hello World" program completion
-- Simple HTML page creation
-
-### Homework Assignment
-- Complete environment setup if needed
-- Practice with basic commands
-- Create a simple personal intro page in HTML
-- Complete binary number worksheet
 
 ### Resources
 - Installation guides
 - VS Code cheat sheet
-- Basic HTML reference
 - Troubleshooting documentation
 
 ---
@@ -127,34 +101,10 @@ By the end of the session, students will:
      - Create flowcharts
      - Write basic pseudocode
 
-### HTML/CSS Session Plan (60 minutes)
-1. **HTML Text Elements** (30 minutes)
-   - Headings and paragraphs
-   - Text formatting tags
-   - Lists and links
-   - Practice exercises
-
-2. **Page Structure** (20 minutes)
-   - Semantic HTML elements
-   - Document sections
-   - Best practices
-
-3. **Review & Practice** (10 minutes)
-   - Code review
-   - Common mistakes
-   - Next steps
-
 ### Assessment & Reflection
 - Problem-solving exercises
 - Flowchart creation
-- HTML structure quiz
 - Class participation
-
-### Homework Assignment
-- Create flowcharts for daily activities
-- Write pseudocode for simple tasks
-- Build a structured HTML page
-- Reading assignment on programming concepts
 
 ### Resources
 - Flowchart symbols guide
@@ -206,34 +156,11 @@ By the end of the session, students will:
      - Code modification tasks
      - Basic debugging
 
-### HTML/CSS Session Plan (60 minutes)
-1. **CSS Introduction** (20 minutes)
-   - What is CSS?
-   - Linking CSS to HTML
-   - Basic syntax
-
-2. **Text Styling** (30 minutes)
-   - Font properties
-   - Text alignment
-   - Colors
-   - Practice exercises
-
-3. **Review & Next Steps** (10 minutes)
-   - Style review
-   - Common issues
-   - Preview next session
-
 ### Assessment & Reflection
 - Python syntax quiz
 - Program completion checks
 - CSS styling exercises
 - Participation evaluation
-
-### Homework Assignment
-- Create simple Python calculator
-- Style HTML text content
-- Reading on CSS properties
-- Debug practice problems
 
 ### Resources
 - Python syntax guide
@@ -275,31 +202,12 @@ By the end of the session, students will:
      - Adding features
      - Code optimization
 
-### HTML/CSS Session Plan (60 minutes)
-1. **Profile Page Project** (60 minutes)
-   - **Design** (15 minutes)
-     - Layout planning
-     - Content organization
-   - **Implementation** (35 minutes)
-     - HTML structure
-     - CSS styling
-     - Content creation
-   - **Review** (10 minutes)
-     - Design check
-     - Responsive testing
-     - Next steps
 
 ### Assessment & Reflection
 - Project completion
 - Code quality review
 - Design evaluation
 - Problem-solving assessment
-
-### Homework Assignment
-- Complete calculator features
-- Enhance profile page
-- Document project process
-- Prepare for next week
 
 ### Resources
 - Calculator examples
@@ -313,4 +221,4 @@ By the end of the session, students will:
 - Collect feedback
 - Address concerns
 
-Would you like me to continue with the detailed plans for the remaining weeks?
+
