@@ -1,268 +1,280 @@
 # Week 2: Problem Solving & Critical Thinking
 ---
-## Day 1: Problem-Solving Methodology & Box Model
+## Day 1: Logic & Boolean Operations
 ### Session Duration
 - **Python Session**: 120 minutes
 - **HTML/CSS Session**: 60 minutes
 
 ### Session Objectives
 By the end of the session, students will:
-- Understand and apply the IDEAL problem-solving framework
-- Write effective pseudocode
-- Understand the CSS box model
-- Apply basic CSS layouts
+- Understand Boolean logic and operations
+- Apply logical operators in Python
+- Begin working with CSS box model
+- Structure webpage layouts
 
 ### Materials Needed
-- Problem-solving worksheets
-- Pseudocode templates
-- Box model diagrams
-- CSS layout examples
+- Logic gate worksheets
+- Truth table templates
+- CSS box model diagrams
+- Layout practice templates
 
 ### Python Session Plan (120 minutes)
-1. **Problem-Solving Methodology** (60 minutes)
-   - **IDEAL Framework Introduction** (20 minutes)
-     - I - Identify the problem
-     - D - Define the problem
-     - E - Explore solutions
-     - A - Act on strategies
-     - L - Look back and learn
-   - **Practical Application** (20 minutes)
-     - Analyze sample problems
-     - Apply IDEAL framework
-     - Group discussion
-   - **Pseudocode Writing** (20 minutes)
-     - Pseudocode structure
-     - Converting thoughts to steps
-     - Practice exercises
+1. **Logic Fundamentals** (45 minutes)
+   - **Warm-Up** (10 minutes)
+     - Review previous concepts
+     - Introduce Boolean logic
+   - **Core Concepts** (20 minutes)
+     - True/False values
+     - Comparison operators
+     - AND, OR, NOT operators
+   - **Interactive Examples** (15 minutes)
+     - Truth tables
+     - Simple logical expressions
+     - Real-world applications
 
-2. **Practical Problem-Solving** (60 minutes)
-   - **Group Exercises** (30 minutes)
-     - Team problem-solving
-     - Solution presentation
+2. **Practical Application** (45 minutes)
+   - **Guided Practice** (25 minutes)
+     - Writing logical expressions
+     - Combining operators
+     - Debugging logic errors
+   - **Independent Work** (20 minutes)
+     - Logic puzzles
+     - Code challenges
      - Peer review
-   - **Individual Practice** (30 minutes)
-     - Solve given problems
-     - Write pseudocode
-     - Begin implementation
+
+3. **Problem-Solving** (30 minutes)
+   - Simple programs using logic
+   - Decision-making exercises
+   - Group discussion and solutions
 
 ### HTML/CSS Session Plan (60 minutes)
-1. **Box Model Deep Dive** (40 minutes)
+1. **Box Model Introduction** (30 minutes)
    - Content, padding, border, margin
-   - Box sizing properties
-   - Practical examples
-   - Hands-on practice
+   - Box-sizing property
+   - Practice exercises
+
+2. **Layout Basics** (20 minutes)
+   - Element positioning
+   - Basic spacing
+   - Layout practice
+
+3. **Review & Preview** (10 minutes)
+   - Concept review
+   - Next session preview
+   - Questions
+
+### Assessment & Reflection
+- Logic exercises completion
+- Code challenge results
+- CSS layout implementation
+- Class participation
+
+### Homework Assignment
+- Logic puzzle worksheet
+- Boolean expression practice
+- Box model exercises
+- Reading on flow control
+
+---
+## Day 2: Control Flow & Decision Making
+### Session Duration
+- **Python Session**: 120 minutes
+- **HTML/CSS Session**: 60 minutes
+
+### Session Objectives
+By the end of the session, students will:
+- Understand if statements and control flow
+- Implement conditional logic
+- Work with display properties in CSS
+- Create basic responsive layouts
+
+### Materials Needed
+- Flowchart templates
+- Code examples
+- CSS display property guide
+- Practice problems
+
+### Python Session Plan (120 minutes)
+1. **Control Flow Basics** (45 minutes)
+   - **Introduction** (15 minutes)
+     - What is control flow?
+     - If statements structure
+     - Basic syntax
+   - **Conditional Statements** (30 minutes)
+     - If, elif, else
+     - Nested conditions
+     - Practice exercises
+
+2. **Practical Implementation** (45 minutes)
+   - **Guided Practice** (25 minutes)
+     - Writing conditional programs
+     - Decision trees
+     - Code organization
+   - **Independent Practice** (20 minutes)
+     - Problem-solving
+     - Code challenges
+     - Debugging
+
+3. **Advanced Concepts** (30 minutes)
+   - Complex conditions
+   - Multiple conditions
+   - Best practices
+
+### HTML/CSS Session Plan (60 minutes)
+1. **Display Properties** (30 minutes)
+   - Block vs inline
+   - Display values
+   - Practice examples
+
+2. **Basic Positioning** (20 minutes)
+   - Static positioning
+   - Relative positioning
+   - Layout exercises
+
+3. **Review & Practice** (10 minutes)
+   - Concept review
+   - Next steps
+   - Questions
+
+### Assessment & Reflection
+- Control flow exercises
+- Program completion
+- CSS layout creation
+- Participation evaluation
+
+### Homework Assignment
+- Create decision-based program
+- CSS positioning exercises
+- Reading on advanced flow control
+- Practice problems
+
+---
+## Day 3: Algorithm Development
+### Session Duration
+- **Python Session**: 120 minutes
+- **HTML/CSS Session**: 60 minutes
+
+### Session Objectives
+By the end of the session, students will:
+- Understand algorithm development
+- Create and optimize algorithms
+- Work with Flexbox layouts
+- Implement responsive design
+
+### Materials Needed
+- Algorithm templates
+- Pseudocode examples
+- Flexbox guide
+- Layout examples
+
+### Python Session Plan (120 minutes)
+1. **Algorithm Basics** (45 minutes)
+   - **Introduction** (15 minutes)
+     - What is an algorithm?
+     - Algorithm characteristics
+     - Examples in daily life
+   - **Development Process** (30 minutes)
+     - Problem analysis
+     - Solution steps
+     - Implementation approach
+
+2. **Practice & Implementation** (45 minutes)
+   - **Guided Practice** (25 minutes)
+     - Writing algorithms
+     - Converting to code
+     - Testing solutions
+   - **Independent Work** (20 minutes)
+     - Algorithm challenges
+     - Code implementation
+     - Optimization
+
+3. **Advanced Concepts** (30 minutes)
+   - Algorithm efficiency
+   - Best practices
+   - Common patterns
+
+### HTML/CSS Session Plan (60 minutes)
+1. **Flexbox Introduction** (30 minutes)
+   - Flex container
+   - Flex items
+   - Basic properties
 
 2. **Layout Practice** (20 minutes)
-   - Applying box model
-   - Spacing elements
-   - Common layouts
-
-[Days 2-4 continue similarly...]
-
-# Week 6-7: Game Development Project
----
-## Theme: "Code Quest Adventures"
-A two-week project combining all previous concepts into an interactive text-based adventure game with web interface.
-
-### Project Overview
-Students will create a game that includes:
-- Character creation system (OOP)
-- Inventory management (Dictionaries)
-- Quest/Mission system (Functions)
-- Save/Load functionality (File I/O)
-- Web-based interface (HTML/CSS)
-- Basic animation effects (CSS)
-
-## Week 6: Game Foundation
-### Day 1: Object-Oriented Programming Basics
-#### Session Duration
-- **Python Session**: 120 minutes
-- **HTML/CSS Session**: 60 minutes
-
-#### Session Objectives
-- Understand OOP concepts
-- Create game character classes
-- Design game interface mockup
-
-#### Python Session Plan (120 minutes)
-1. **OOP Introduction** (45 minutes)
-   - Classes and objects
-   - Attributes and methods
-   - Inheritance basics
-   ```python
-   class Character:
-       def __init__(self, name, role):
-           self.name = name
-           self.role = role
-           self.inventory = []
-           self.health = 100
-           
-       def add_item(self, item):
-           self.inventory.append(item)
-           
-       def use_item(self, item):
-           if item in self.inventory:
-               # Item usage logic
-               pass
-   ```
-
-2. **Character System Implementation** (75 minutes)
-   - Create base Character class
-   - Add special abilities
-   - Implement inventory system
-
-#### HTML/CSS Session (60 minutes)
-- Game interface design
-- Character display layout
-- Status bar styling
-
-[Days 2-4 continue with game development...]
-
-### Week 6 Homework
-- Enhance character system
-- Add new character types
-- Create character customization
-- Style character display
-
-## Week 7: Game Enhancement & Completion
-### Day 1: Advanced Game Features
-#### Session Duration
-- **Python Session**: 120 minutes
-- **HTML/CSS Session**: 60 minutes
-
-#### Session Objectives
-- Implement save/load system
-- Create quest management
-- Add game progression
-- Enhance UI/UX
-
-#### Python Session Plan (120 minutes)
-1. **Save/Load System** (60 minutes)
-   ```python
-   class GameState:
-       def save_game(self, filename):
-           game_data = {
-               'player': self.player.to_dict(),
-               'quests': self.quests,
-               'inventory': self.inventory
-           }
-           with open(filename, 'w') as f:
-               json.dump(game_data, f)
-               
-       def load_game(self, filename):
-           with open(filename, 'r') as f:
-               game_data = json.load(f)
-               # Restore game state
-   ```
-
-2. **Quest System** (60 minutes)
-   - Quest class implementation
-   - Progress tracking
-   - Reward system
-
-#### HTML/CSS Session (60 minutes)
-- Quest interface design
-- Progress indicators
-- Animation effects
-
-### Final Project Requirements
-1. **Game Features**
-   - Character creation and customization
-   - At least 3 different character classes
-   - Minimum 5 inventory items
-   - Save/Load functionality
-   - 3+ quests or missions
-
-2. **Technical Requirements**
-   - Use of classes and inheritance
-   - Dictionary data structures
-   - File I/O for save/load
-   - Functions for game logic
-   - Error handling
-   - Clean, documented code
-
-3. **Web Interface Requirements**
+   - Flex layouts
    - Responsive design
-   - Character status display
-   - Inventory management UI
-   - Quest log
-   - Basic animations
+   - Practice exercises
 
-### Assessment Criteria
-- Code organization (20%)
-- Feature implementation (30%)
-- UI/UX design (20%)
-- Creativity (15%)
-- Documentation (15%)
+3. **Review & Next Steps** (10 minutes)
+   - Concept review
+   - Preview next session
+   - Questions
 
-### Example Game Features
-1. **Character Classes**
-   ```python
-   class Warrior(Character):
-       def __init__(self, name):
-           super().__init__(name, "Warrior")
-           self.strength = 15
-           self.special_ability = "Battle Cry"
-           
-   class Mage(Character):
-       def __init__(self, name):
-           super().__init__(name, "Mage")
-           self.magic = 15
-           self.special_ability = "Fireball"
-   ```
+### Assessment & Reflection
+- Algorithm development
+- Code implementation
+- Flexbox layouts
+- Class participation
 
-2. **Quest System**
-   ```python
-   class Quest:
-       def __init__(self, title, description, requirements, reward):
-           self.title = title
-           self.description = description
-           self.requirements = requirements
-           self.reward = reward
-           self.completed = False
-           
-       def check_completion(self, player):
-           # Check if player meets requirements
-           pass
-           
-       def complete_quest(self, player):
-           if self.check_completion(player):
-               player.add_reward(self.reward)
-               self.completed = True
-   ```
+### Homework Assignment
+- Create simple algorithms
+- Implement Flexbox layouts
+- Reading on optimization
+- Practice exercises
 
-3. **Inventory System**
-   ```python
-   class Inventory:
-       def __init__(self, capacity=10):
-           self.items = {}
-           self.capacity = capacity
-           
-       def add_item(self, item, quantity=1):
-           if len(self.items) < self.capacity:
-               if item.name in self.items:
-                   self.items[item.name] += quantity
-               else:
-                   self.items[item.name] = quantity
-   ```
+---
+## Day 4: Project Day - Game Logic
+### Session Duration
+- **Python Session**: 120 minutes
+- **HTML/CSS Session**: 60 minutes
 
-### Final Presentation
-Students will:
-- Demo their game
-- Explain technical implementation
-- Discuss challenges and solutions
-- Share future enhancement ideas
+### Session Objectives
+By the end of the session, students will:
+- Apply logic and algorithms
+- Create a simple game
+- Implement responsive layouts
+- Style interactive elements
 
-### Extension Ideas
-- Multi-player functionality
-- Custom quest creator
-- Achievement system
-- Trading system
-- Battle system
-- Character progression/leveling
+### Materials Needed
+- Project requirements
+- Game examples
+- CSS animation guide
+- Testing templates
 
-Would you like me to:
-1. Provide more detailed daily breakdowns for Weeks 6-7?
-2. Create specific quest examples or game scenarios?
-3. Develop more detailed assessment rubrics?
-4. Add more technical implementation details?
+### Python Session Plan (120 minutes)
+1. **Project Planning** (30 minutes)
+   - Game requirements
+   - Logic planning
+   - Algorithm development
+
+2. **Implementation** (60 minutes)
+   - Game structure
+   - Control flow
+   - Testing and debugging
+
+3. **Enhancement** (30 minutes)
+   - Additional features
+   - Optimization
+   - Documentation
+
+### HTML/CSS Session Plan (60 minutes)
+1. **Game Interface** (40 minutes)
+   - Layout structure
+   - Responsive design
+   - Style implementation
+
+2. **Review & Enhancement** (20 minutes)
+   - Design review
+   - Improvements
+   - Final touches
+
+### Assessment & Reflection
+- Project completion
+- Code quality
+- Interface design
+- Problem-solving skills
+
+### Homework Assignment
+- Complete game features
+- Enhance interface
+- Documentation
+- Prepare for presentation
